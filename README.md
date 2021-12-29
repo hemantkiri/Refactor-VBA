@@ -7,3 +7,5 @@ Results: Using images and examples of your code, compare the stock performance b
 Summary: Advantage of refactoring code is to loop through all the data one time in order to collect the same information.  Refactoring code can successfully make the VBA script run faster.
 Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality, you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
+![](VBA_Challenge_2017.png)
+![](VBA_Challenge_2018.png)
